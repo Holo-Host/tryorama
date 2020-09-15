@@ -1,6 +1,6 @@
 # tryorama
 
-This repo is now available as the `rsm` branch of https://github.com/tryorama. To use tryorama-rsm Until then, update your package.json like so:
+This repo is now available as the `rsm` branch of https://github.com/tryorama. To use tryorama-rsm update your package.json like so:
 
 from
 ```
