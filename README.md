@@ -1,5 +1,17 @@
 # tryorama
 
+This repo is now available as the `rsm` branch of https://github.com/tryorama. To use tryorama-rsm Until then, update your package.json like so:
+
+from
+```
+"@holochain/tryorama": "git://github.com/Holo-Host/tryorama-rsm.git"
+```
+
+to 
+```
+"@holochain/tryorama": "git://github.com/holochain/tryorama#rsm.git"
+```
+
 - - -
 
 > # ⚠️ NOTE: Tryorama is in a transitional phase ⚠️
